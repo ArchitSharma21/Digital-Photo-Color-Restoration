@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+opencv-python-headless
+matplotlib
+scipy==1.7.1
+scikit_image==0.18.3
+requests
+fastai==1.0.51
+Pillow
+stqdm
